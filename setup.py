@@ -34,7 +34,6 @@ setup(
     ],
     description="Calculate Open Street Maps road length for any polygon",
     entry_points={},
-    install_requires=requirements,
     license="MIT license",
     long_description=readme + "\n\n" + history,
     include_package_data=True,
